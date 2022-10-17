@@ -1,0 +1,3 @@
+Run the file main_IVP_solver.m to solve the initial value problem.
+Run the file main_BVP_solver.m to solve the boundary value problem.
+Run the file main_continuation_solver.m to solve the boundary value continuation problem.

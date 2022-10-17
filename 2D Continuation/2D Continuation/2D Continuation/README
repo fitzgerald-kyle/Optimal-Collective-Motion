@@ -1,0 +1,8 @@
+These Matlab files solve the initial value problem, the boundary value problem, and the boundary value continuation problem for the following system:
+x1' = sin(x3)   x2' = cos(x3)   x3' = p3
+p1' = 0   p2' = 0   p3' = p1*sin(x3) - p2*cos(x3)
+
+
+Run the file main_IVP_solver.m to solve the initial value problem.
+Run the file main_BVP_solver.m to solve the boundary value problem.
+Run the file main_continuation_solver.m to solve the boundary value continuation problem.
